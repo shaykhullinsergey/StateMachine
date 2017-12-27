@@ -1,0 +1,11 @@
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\bin\Debug\netcoreapp2.0\MathematicalLogic.deps.json
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\bin\Debug\netcoreapp2.0\MathematicalLogic.runtimeconfig.json
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\bin\Debug\netcoreapp2.0\MathematicalLogic.runtimeconfig.dev.json
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\bin\Debug\netcoreapp2.0\MathematicalLogic.dll
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\bin\Debug\netcoreapp2.0\MathematicalLogic.pdb
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\obj\Debug\netcoreapp2.0\MathematicalLogic.csprojResolveAssemblyReference.cache
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\obj\Debug\netcoreapp2.0\MathematicalLogic.csproj.CoreCompileInputs.cache
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\obj\Debug\netcoreapp2.0\MathematicalLogic.AssemblyInfoInputs.cache
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\obj\Debug\netcoreapp2.0\MathematicalLogic.AssemblyInfo.cs
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\obj\Debug\netcoreapp2.0\MathematicalLogic.dll
+C:\Users\yolor\Source\Repos\MathematicalLogic\MathematicalLogic\obj\Debug\netcoreapp2.0\MathematicalLogic.pdb
